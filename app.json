@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name":"ShopNow",
+    "sdkVersion": "27.0.0",
+    "androidStatusBar": {
+        "barStyle": "light-content",
+        "backgroundColor": "#1c313a"
+    },
+    "android": {
+     "package":"com.photoninfotech.products",
+      "versionCode":1 
+
+          }
+  }
+}
